@@ -1,0 +1,6 @@
+@import "./header/top-header.scss";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
